@@ -1,4 +1,5 @@
-i
+#include <unistd.h>
+#include <string.h>
 /**
 *File:main.h
 *Desc:header file containing functions declaration
