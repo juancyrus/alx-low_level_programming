@@ -1,6 +1,7 @@
 #include "main"
 
-/** int mul is  a function that multiplies two integers
+/**
+ * mul = main function
  *
  * @a: first value
  * @b: second value
