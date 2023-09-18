@@ -1,5 +1,6 @@
 #include <stdlib.h>
 #include <time.h>
+#include "main.h"
 /**
  * main - entry point generates a random password
  *
