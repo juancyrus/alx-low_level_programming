@@ -1,7 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 #include <stddef.h>
-#include <studio.h>
+#include <stdio.h>
 /**
  * my prototypes for today
  * ten in total 
@@ -16,4 +16,4 @@ void print_chessboard(char (*a)[8]);
 void print_diagsums(int *a, int size);
 void set_string(char **s, char *to);
 int _putchar(char c);
-#endif /* MAIN_H */
+#endif /* MAIN_H */ 
